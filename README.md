@@ -41,7 +41,7 @@ elasticsearch-8.13.0/bin/elasticsearch-plugin install file:경로h/hello_plugin-
 2-2. elasticsearch 재기동
 플러그인 설치 후 재기동해줘야 사용할 수 있다.
 
-#### 3) filter 사용하기
+## 3) filter 사용하기
 3.1 /_analyzer 실행하기  
 ![화면 캡처 2025-06-11 114851](https://github.com/user-attachments/assets/86a5845e-25e4-4afd-8d20-f8dc7995252b)  
 
