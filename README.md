@@ -10,6 +10,7 @@ elasticsearch는 8.13.0 버전으로 만들어졌다.
 
 #### plugin 구조  
 1) hello_filter (filter)
+   ex) world -> world hello
 
 
 ## 2) Build 및 설치
