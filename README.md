@@ -1,9 +1,15 @@
 # hello_plugin
 
 ## 1) 소개
-플러그인의 구조를 확인하기 위해 간단한 단어 뒤에 hello 를 붙이는 플러그인이다.
+플러그인의 구조를 확인하기 위해 만들어본 단어 뒤에 hello 를 붙이는 플러그인이다.  
+elasticsearch는 8.13.0 버전으로 만들어졌다.  
 
-#### - 필터 이름 : hello_filter 
+- elasticsearch : 8.13.0  
+- java : 19.0.2  
+- gradle : 8.10.2
+
+#### plugin 구조  
+1) hello_filter (filter)
 
 
 ## 2) Build 및 설치
