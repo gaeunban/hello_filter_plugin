@@ -1,7 +1,7 @@
 # hello_plugin
 
 ## 1) 소개
-플러그인의 구조를 확인하기 위해 만들어본 단어 뒤에 hello 를 붙이는 플러그인이다.  
+플러그인의 구조를 확인하기 위해 만들어본 단어 뒤에 hello 를 붙이는 filter를 가지는 플러그인이다.  
 elasticsearch는 8.13.0 버전으로 만들어졌다.  
 
 - elasticsearch : 8.13.0  
